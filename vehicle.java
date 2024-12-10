@@ -1,3 +1,4 @@
+//how can i be homophobic ? //
 public class vehicle
 {
     String brand;
