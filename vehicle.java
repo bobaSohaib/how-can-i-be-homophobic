@@ -22,7 +22,7 @@ public class vehicle
 
     }
 }
-class Car extends vehicle()
+class Car extends vehicle
 {
     int numberOfDoors;
     Car(String brand,double speed,int numberOfDoors)
